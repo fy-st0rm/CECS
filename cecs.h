@@ -54,7 +54,6 @@ typedef enum {
 
 typedef struct {
 	void** data;
-	int x;
 } CompRecord;
 
 /*
